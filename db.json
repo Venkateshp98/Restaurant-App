@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Prabhakar",
+      "email": "prabha@gmail.com",
+      "mobile": 9872743244,
+      "address": "Andhrapradesh",
+      "service": "Supporter",
+      "place": "Madhanapalli"
+    },
+    {
+      "id": 2,
+      "name": "Smakettu",
+      "email": "venkatesh@gmail.com",
+      "mobile": 928348443,
+      "address": "Andhra pradesh",
+      "service": "Online",
+      "place": "Punganur"
+    },
+    {
+      "id": 3,
+      "name": "Venkatesh",
+      "email": "venkateshpeddinti@gmial.com",
+      "mobile": 9287432,
+      "address": "AP",
+      "service": "Coffee shop",
+      "place": "Punganur"
+    },
+    {
+      "id": 4,
+      "name": "Beeru",
+      "email": "Beeru@gmial.com",
+      "mobile": 23498327,
+      "address": "flkdhsif",
+      "service": "sfd",
+      "place": "Rajhamandri"
+    },
+    {
+      "id": 5,
+      "name": "Venkatesh Peddinti",
+      "email": "venkatesh@gmail.com",
+      "mobile": 3480389438,
+      "address": "Delhi",
+      "service": "Food Service",
+      "place": "India"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
